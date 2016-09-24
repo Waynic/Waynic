@@ -1,0 +1,2 @@
+# Waynic
+Waynic's Blog
